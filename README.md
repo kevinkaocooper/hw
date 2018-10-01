@@ -20,12 +20,12 @@
 • What does the -10 do in the second and fourth arguments of the line function, height-10-random(h)? Why is it there?
     The grass will start from height y=190. In order to create randomness of the grass height, you minus random hight, which is 10.
 
-What's the point of an object?
+• What's the point of an object?
     The variables wouldn't float around in the code. It will help you organize better coding.
     An object is a collection of related data and/or functionality (which usually consists of several variables and functions — which are     called properties and methods when they are inside objects.)
 
-What's an example of a range you might use for the map function?
+• What's an example of a range you might use for the map function?
        Range of color value/hue, range of height/width or position. 
        
-What line of code would give me a random year in the last century?
+• What line of code would give me a random year in the last century?
     var x = random (1918,2018);
